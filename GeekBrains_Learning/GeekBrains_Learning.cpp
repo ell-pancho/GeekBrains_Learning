@@ -10,13 +10,13 @@ bool bValue = true;
 float float_value = 0.5;
 double double_value = 0.1;
 
+enum CellState { EMPTY, ZERO, CROSS };
+
 CellState Field[3][3] = {
     {CROSS, CROSS, ZERO},
     {ZERO, ZERO, CROSS},
     {CROSS, ZERO, CROSS}
 };
-
-enum CellState { EMPTY, ZERO, CROSS };
 
 struct Game
 {
@@ -44,7 +44,7 @@ struct Variant
 };
 
 
-int main()
+int lesson2()
 {
 
     Variant newVariant;
