@@ -54,7 +54,7 @@ int lesson2()
     newVariant.isFloat = false;
     newVariant.isChar = false;
 
-    newVariant.uValue.cValue = 'Test';
+    // newVariant.uValue.cValue = 'Test';
     newVariant.isInt = false;
     newVariant.isFloat = false;
     newVariant.isChar = true;

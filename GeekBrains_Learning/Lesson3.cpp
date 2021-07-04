@@ -2,7 +2,7 @@
 
 extern int a, b, c, d;
 
-int main()
+int lesson3()
 {
 
 	// Задание №1 (4)
