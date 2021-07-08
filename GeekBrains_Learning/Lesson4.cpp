@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+int lesson4()
 {
 	// Task 1
 	
