@@ -78,7 +78,7 @@ bool check_array(int* array, int size)
 	return false;
 }
 
-int main()
+int lesson5()
 {
 	
 	// Task1

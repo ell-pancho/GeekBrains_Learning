@@ -116,6 +116,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -144,6 +145,10 @@
     <ClCompile Include="Lesson3_const.cpp" />
     <ClCompile Include="Lesson4.cpp" />
     <ClCompile Include="Lesson5.cpp" />
+    <ClCompile Include="Lesson6.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myFunctions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
