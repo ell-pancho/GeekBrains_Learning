@@ -156,7 +156,7 @@ bool task5(string fileName, string findString)
 	return false;
 }
 
-int main()
+int lesson6()
 {
 	task1();
 	task2();
