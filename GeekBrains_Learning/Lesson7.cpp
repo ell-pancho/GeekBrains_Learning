@@ -96,7 +96,7 @@ void lesson7Task4()
 	delete employee;
 }
 
-int main()
+int lesson7()
 {
 
 	lesson7Task2();
