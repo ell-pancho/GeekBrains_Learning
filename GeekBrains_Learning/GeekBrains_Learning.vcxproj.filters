@@ -39,7 +39,11 @@
     <ClCompile Include="mylib.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="AlgoritmsLesson1.cpp">
+=======
+    <ClCompile Include="Lesson8.cpp">
+>>>>>>> 772783134ad2777026f26a1f5b9a1e1c59be4fff
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
