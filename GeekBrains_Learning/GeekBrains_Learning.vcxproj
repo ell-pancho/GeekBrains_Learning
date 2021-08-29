@@ -141,6 +141,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AlgoritmsLesson1.cpp" />
     <ClCompile Include="GeekBrains_Learning.cpp" />
     <ClCompile Include="Lesson3.cpp" />
     <ClCompile Include="Lesson3_const.cpp" />
