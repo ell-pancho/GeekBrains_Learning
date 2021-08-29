@@ -475,7 +475,7 @@ Progress getWon(const Field& f)
 	return DRAW;
 }
 
-int main()
+int lesson8()
 {
 	Field f;
 
